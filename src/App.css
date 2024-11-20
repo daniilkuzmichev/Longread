@@ -23,6 +23,7 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  color: black;
 }
 .title{
   margin-top: 20px;
@@ -38,16 +39,19 @@
   width: 100%;
   margin-top: 50px;
   font-size: 20px;
+  color: black;
 }
 .text_1{
   display: flex;
   justify-content: start;
   margin-bottom: 30px;
+  color: black;
 }
 .text_2{
   display: flex;
   justify-content: end;
   margin-bottom: 30px;
+  color: black;
 }
 .first{
   font-size: 30px;
@@ -56,6 +60,7 @@
   border-radius: 80px;
   padding: 3px 15px;
   background-color: #ededf4;
+  color: black;
 }
 .second{
   font-size: 30px;
@@ -64,12 +69,14 @@
   border-radius: 80px;
   padding: 3px 15px;
   background-color: white;
+  color: black;
 }
 .content_first{
   display: flex;
   flex-direction: column;
   align-items: center;
   margin-top: 50px;
+  color: black;
 }
 .content_first_text{
   width: 70%;
@@ -77,13 +84,16 @@
   font-size: 20px;
   border-top: 2px solid gray;
   padding-top: 20px;
+  color: black;
 }
 .ul_li{
   font-size: 20px;
   width: 50%;
+  color: black;
 }
 .ul_li li{
   margin-bottom: 10px;
+  color: black;
 }
 .content_second{
   width: 50%;
@@ -94,6 +104,7 @@
   border-radius: 20px;
   text-align: center;
   box-shadow: 0px 5px 10px 7px rgba(34, 60, 80, 0.2);
+  color: black;
 }
 .slide{
   width: 40%;
@@ -107,13 +118,13 @@
   border-radius: 20px;
   min-height: 100px;
   box-shadow: 0px 5px 10px 7px rgba(34, 60, 80, 0.2);
-  
+  color: black;
 }
 .slides{
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  
+  color: black;
 }
 .second_content_text{
   width: 50%;
@@ -123,6 +134,7 @@
   padding: 20px;
   text-align: justify;
   border: 2px dashed black;
+  color: black;
 }
 .content_second_end{
   width: 70%;
@@ -134,10 +146,12 @@
   font-family: "Montserrat", sans-serif;
   text-align: center;
   box-shadow: 0px 5px 10px 7px rgba(34, 60, 80, 0.2);
+  color: black;
 }
 .content_second_end_text{
   font-family: "Montserrat", sans-serif;
   margin: 30px;
+  color: black;
 }
 .text2{
   display: flex;
@@ -147,7 +161,7 @@
   width: 100%;
   margin-top: 50px;
   font-size: 20px;
-
+  color: black;
 }
 .footer{
   display: flex;
@@ -156,4 +170,5 @@
   font-size: 20px;
   background-color: #ededf4;
   height: 200px;
+  color: black;
 }
